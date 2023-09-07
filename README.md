@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [www.brekkenmedia.no](www.brekkenmedia.no)
-
 - 📫 How to reach me **tormagne-brekken@outlook.com**
 
 - 📄 Know about my experiences [www.brekkenmedia.no](www.brekkenmedia.no)
